@@ -30,7 +30,7 @@
 2. Created visualizations (charts, graphs) to effectively present sales and financial insights.
 3. Implemented ETL processes to ensure data accuracy and consistency.
 
-**Soft Skills Gained:*
+*Soft Skills Gained:*
 
 1. Communicated complex data insights clearly to stakeholders.
 2. Applied problem-solving skills to resolve data discrepancies.
