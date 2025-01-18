@@ -1,4 +1,4 @@
-# Sales-Finance-Analysis-Report
+# Sales & Finance Analysis Report
 **1. Purpose of Sales Analysis:**
 
 *i. Customer Performance Analysis:*
