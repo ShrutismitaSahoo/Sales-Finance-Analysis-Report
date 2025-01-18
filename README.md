@@ -9,7 +9,7 @@
 
 **ii. Market Performance Analysis:*
 
-1. Compared actual sales against targets to assess market effectiveness.
+1. Compare actual sales against targets to assess market effectiveness.
 2. Identified top 10 products contributing to overall sales.
 3. Analyzed divisional sales and identified top and bottom 5 products.
 4. Identified top and bottom 5 products to focus on strengths and address weaknesses.
@@ -26,12 +26,13 @@
 
 **Technical Skills Used:*
 
-**1. Excel Skills:** Utilized Power Query for data extraction and transformation, Power Pivot for data modeling, and DAX for advanced calculations.
-**2. Data Visualization:** Created charts and graphs to represent sales and financial data insights visually.
-**3. ETL Processes:** Implemented efficient data ETL processes to ensure data accuracy and consistency.
+1. Utilized Excel’s Power Query, Power Pivot, and DAX for data extraction, transformation, modeling, and analysis.
+2. Created visualizations (charts, graphs) to effectively present sales and financial insights.
+3. Implemented ETL processes to ensure data accuracy and consistency.
 
 **Soft Skills Gained:*
 
-**1. Problem-Solving: **Identified and resolved data discrepancies and operational challenges.
-**2. Analytical Thinking: **Applied analytical skills to interpret data and make informed business decisions.
-**3. Project Management:** Managed project timelines and deliverables to ensure timely completion.
+1. Communicated complex data insights clearly to stakeholders.
+2. Applied problem-solving skills to resolve data discrepancies.
+3. Utilized analytical thinking for informed decision-making.
+4. Managed project timelines and collaborated effectively with teams.
